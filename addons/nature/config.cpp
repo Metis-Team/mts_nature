@@ -6,7 +6,7 @@ class CfgPatches {
         #include "CfgPatchesUnits.hpp"
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"mts_main"};
+        requiredAddons[] = {"A3_Data_F_Enoch_Loadorder", "A3_Data_F_Mod_Loadorder"};
         author = "";
         authors[] = {"Timi007"};
         VERSION_CONFIG;
