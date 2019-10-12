@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="MTS Nature">
     <Package name="mts_nature">
+    <Container name="CBA">
+        <Key ID="str_mts_nature_cba_category_name">
+            <Original>Metis Nature</Original>
+            <German>Metis Nature</German>
+        </Key>
+    </Container>
     <Container name="Misc">
         <Key ID="str_mts_nature_Bush_Faction">
             <Original>Bushes</Original>
