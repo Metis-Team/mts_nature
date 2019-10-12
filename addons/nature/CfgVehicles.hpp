@@ -39,31 +39,26 @@ class CfgVehicles {
         accuracy = 1000;
     };
 
-    #define BUSH(NAME,MODELPATH) \
-    class NAME##: GVAR(bush_base) { \
+    #define BASE_ATTRIBUTES(NAME,MODELPATH) \
         scope = 2; \
         scopeCurator = 2; \
         model = MODELPATH##; \
         displayName = CSTRING(NAME); \
-        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg);
+
+    #define BUSH(NAME,MODELPATH) \
+    class NAME##: GVAR(bush_base) { \
+        BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define PLANT(NAME,MODELPATH) \
     class NAME##: GVAR(plant_base) { \
-        scope = 2; \
-        scopeCurator = 2; \
-        model = MODELPATH##; \
-        displayName = CSTRING(NAME); \
-        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+        BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define TREE(NAME,MODELPATH) \
     class NAME##: GVAR(tree_base) { \
-        scope = 2; \
-        scopeCurator = 2; \
-        model = MODELPATH##; \
-        displayName = CSTRING(NAME); \
-        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+        BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define ROCK(NAME,MODELPATH) \
@@ -71,26 +66,17 @@ class CfgVehicles {
         scope = 2; \
         scopeCurator = 2; \
         model = MODELPATH##; \
-        icon = QPATHTOF(data\ui\mts_nature_ui_rock.paa); \
         displayName = CSTRING(NAME); \
     }
 
     #define CLUTTER(NAME,MODELPATH) \
     class NAME##: GVAR(clutter_base) { \
-        scope = 2; \
-        scopeCurator = 2; \
-        model = MODELPATH##; \
-        displayName = CSTRING(NAME); \
-        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+        BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define GRASS(NAME,MODELPATH) \
     class NAME##: GVAR(grass_base) { \
-        scope = 2; \
-        scopeCurator = 2; \
-        model = MODELPATH##; \
-        displayName = CSTRING(NAME); \
-        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+        BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #include "CfgVehicles_Bush.hpp"
