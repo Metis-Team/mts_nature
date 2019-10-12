@@ -20,6 +20,11 @@ class CfgVehicles {
         editorSubcategory = QGVAR(tree_faction);
     };
 
+    class GVAR(clutter_base): GVAR(bush_base) {
+        icon = QPATHTOF(data\ui\mts_nature_ui_plant.paa);
+        editorSubcategory = QGVAR(clutter_faction);
+    };
+
     // Only for BWC
     class Rocks_base_F;
     class GVAR(rock_base): Rocks_base_F {
@@ -65,8 +70,18 @@ class CfgVehicles {
         displayName = CSTRING(NAME); \
     }
 
+    #define CLUTTER(NAME,MODELPATH) \
+    class NAME##: GVAR(clutter_base) { \
+        scope = 2; \
+        scopeCurator = 2; \
+        model = MODELPATH##; \
+        displayName = CSTRING(NAME); \
+        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+    }
+
     #include "CfgVehicles_Bush.hpp"
     #include "CfgVehicles_Plant.hpp"
     #include "CfgVehicles_Tree.hpp"
     #include "CfgVehicles_Rock.hpp"
+    #include "CfgVehicles_Clutter.hpp"
 };

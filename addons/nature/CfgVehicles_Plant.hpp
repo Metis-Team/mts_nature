@@ -1,9 +1,5 @@
 //ARMA Vanilla
 PLANT(Carduus,A3\plants_f\Clutter\c_Carduus.p3d);
-PLANT(Crack_Clutter1,A3\plants_f\Clutter\c_Crack_Clutter1.p3d);
-PLANT(Crack_Clutter2,A3\plants_f\Clutter\c_Crack_Clutter2.p3d);
-PLANT(Crack_Clutter3,A3\plants_f\Clutter\c_Crack_Clutter3.p3d);
-PLANT(Crack_Clutter4,A3\plants_f\Clutter\c_Crack_Clutter4.p3d);
 PLANT(Flower_Medium_Blue,A3\plants_f\Clutter\c_Flower_BrushMedium_Blue.p3d);
 PLANT(Flower_Medium_White,A3\plants_f\Clutter\c_Flower_BrushMedium_White.p3d);
 PLANT(Flower_Cakile,A3\plants_f\Clutter\c_Flower_Cakile.p3d);
@@ -32,12 +28,6 @@ PLANT(Plant_Dock,A3\plants_f\Clutter\c_Plant_Dock.p3d);
 PLANT(Plant_Green_Small,A3\plants_f\Clutter\c_Plant_Green_Small.p3d);
 PLANT(Plant_Green_Bunch,A3\plants_f\Clutter\c_Plant_GreenBunch.p3d);
 PLANT(Plant_Mullein,A3\plants_f\Clutter\c_Plant_Mullein.p3d);
-PLANT(Rubble_Clutter1,A3\plants_f\Clutter\c_Rubble_Clutter1.p3d);
-PLANT(Rubble_Clutter2,A3\plants_f\Clutter\c_Rubble_Clutter2.p3d);
-PLANT(Rubble_Clutter3,A3\plants_f\Clutter\c_Rubble_Clutter3.p3d);
-PLANT(Rubble_Clutter4,A3\plants_f\Clutter\c_Rubble_Clutter4.p3d);
-PLANT(Rubble_Clutter5,A3\plants_f\Clutter\c_Rubble_Clutter5.p3d);
-PLANT(Rubble_Clutter6,A3\plants_f\Clutter\c_Rubble_Clutter6.p3d);
 PLANT(Flower_White_Small,A3\plants_f\Clutter\c_StrFlowerWhiteSmall.p3d);
 PLANT(Str_Grass_Dry,A3\plants_f\Clutter\c_StrGrassDry.p3d);
 PLANT(Str_WeedBrown_Tall,A3\plants_f\Clutter\c_StrWeedBrownTall_group.p3d);

@@ -20,6 +20,10 @@
             <Original>Plants</Original>
             <German>Pflanzen</German>
         </Key>
+        <Key ID="str_mts_nature_Clutter_Faction">
+            <Original>Clutter</Original>
+            <German>Geröll</German>
+        </Key>
     </Container>
     <Container name="Bush">
         <Key ID="str_mts_nature_Cane1">

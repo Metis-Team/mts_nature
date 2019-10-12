@@ -8,4 +8,7 @@ class CfgEditorSubcategories {
     class GVAR(tree_faction) {
         displayName = CSTRING(Tree_Faction);
     };
+    class GVAR(clutter_faction) {
+        displayName = CSTRING(Clutter_Faction);
+    };
 };
