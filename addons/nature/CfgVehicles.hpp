@@ -79,10 +79,10 @@ class CfgVehicles {
         BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
-    #include "CfgVehicles_Bush.hpp"
-    #include "CfgVehicles_Plant.hpp"
-    #include "CfgVehicles_Tree.hpp"
-    #include "CfgVehicles_Rock.hpp"
-    #include "CfgVehicles_Clutter.hpp"
-    #include "CfgVehicles_Grass.hpp"
+    #include "cfgvehicles\CfgVehicles_Bush.hpp"
+    #include "cfgvehicles\CfgVehicles_Clutter.hpp"
+    #include "cfgvehicles\CfgVehicles_Grass.hpp"
+    #include "cfgvehicles\CfgVehicles_Plant.hpp"
+    #include "cfgvehicles\CfgVehicles_Rock.hpp"
+    #include "cfgvehicles\CfgVehicles_Tree.hpp"
 };

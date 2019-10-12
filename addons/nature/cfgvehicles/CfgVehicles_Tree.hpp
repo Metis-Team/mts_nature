@@ -51,13 +51,9 @@ TREE(Rhizophora,A3\vegetation_f_exp\Tree\t_Rhizophora_F.p3d);
 TREE(Cacao_ripe,A3\vegetation_f_exp\Crop\t_Cacao_ripe_F.p3d);
 
 TREE(FallenBranch,A3\vegetation_f_exp\TreeParts\d_FallenBranch_F.p3d);
-//TREE(FallenBranch_LC,A3\vegetation_f_exp\TreeParts\d_FallenBranch_LC_F.p3d);
 TREE(FallenTrunk_branches,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_branches_F.p3d);
-//TREE(FallenTrunk_branches_LC,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_branches_LC_F.p3d);
 TREE(FallenTrunk_clear,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_clear_F.p3d);
-//TREE(FallenTrunk_clear_LC,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_clear_LC_F.p3d);
 TREE(FallenTrunk_roots,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_roots_F.p3d);
-//TREE(FallenTrunk_roots_LC,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_roots_LC_F.p3d);
 TREE(TreeStump_cut_large,A3\vegetation_f_exp\TreeParts\d_TreeStump_cut_large_F.p3d);
 TREE(TreeStump_cut_small,A3\vegetation_f_exp\TreeParts\d_TreeStump_cut_small_F.p3d);
 TREE(TreeStump_natural_large,A3\vegetation_f_exp\TreeParts\d_TreeStump_natural_large_F.p3d);

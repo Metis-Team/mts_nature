@@ -1,0 +1,36 @@
+//ARMA Vanilla
+"Grass_High_Dry",
+"Grass_High_Green",
+"Grass_Low_Sharp",
+"Grass_Bunch_Small",
+"Grass_Dry",
+"Grass_Green",
+"Grass_Tall_Dead",
+"Grass_Tuft_Dry",
+"Grass_Crooked",
+"Grass_Tuft_Dead",
+"Grass_Desert_GroupHard",
+"Grass_Green_GroupHard",
+"Grass_Green_GroupSoft",
+"Grass_Long_Dry",
+"Grass_Tall",
+"Str_Grass_Dry",
+"Str_WeedBrown_Tall",
+"Str_WeedGreen_Tall",
+
+//ARMA APEX
+"volcano_Grass",
+"volcano_GrassMix",
+"volcano_GrassMix2",
+
+"red_dirt_short_Grass",
+"red_dirt_sparse_Grass",
+"red_dirt_sparse_Grass2",
+"red_dirt_sparse_Grass3",
+
+"GrassBunch_HI",
+"GrassBunch_LO",
+
+"Grass_leaf_big",
+"Grass_short_small",
+"Grass_short_bunch",
