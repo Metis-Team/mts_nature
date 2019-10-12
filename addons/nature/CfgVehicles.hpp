@@ -21,12 +21,12 @@ class CfgVehicles {
     };
 
     class GVAR(clutter_base): GVAR(bush_base) {
-        icon = QPATHTOF(data\ui\mts_nature_ui_plant.paa);
+        icon = QPATHTOF(data\ui\mts_nature_ui_clutter.paa);
         editorSubcategory = QGVAR(clutter_faction);
     };
 
     class GVAR(grass_base): GVAR(bush_base) {
-        icon = QPATHTOF(data\ui\mts_nature_ui_plant.paa);
+        icon = QPATHTOF(data\ui\mts_nature_ui_grass.paa);
         editorSubcategory = QGVAR(grass_faction);
     };
 
