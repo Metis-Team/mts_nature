@@ -1,0 +1,12 @@
+name = "Metis Nature";
+picture = "mts_nature_logo_small.paa";
+actionName = "Github";
+action = "https://github.com/Metis-Team/mts_nature";
+description = "Adds ArmA vegetation to 3DEN and Zeus.";
+logo = "mts_nature_logo_small.paa";
+logoOver = "mts_nature_logo_over_small.paa";
+tooltip = "Metis Nature";
+tooltipOwned = "Metis Nature Owned";
+overview = "Metis Nature";
+overviewPicture = "mts_nature_logo_small.paa";
+author = "Timi007";
