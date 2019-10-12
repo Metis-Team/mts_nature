@@ -1,6 +1,6 @@
 #define COMPONENT nature
 #define COMPONENT_BEAUTIFIED Nature
-#include "\z\mts_nature\addons\main\script_mod.hpp"
+#include "\z\mts_nature\addons\nature\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
@@ -14,4 +14,4 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_NATURE
 #endif
 
-#include "\z\mts_nature\addons\main\script_macros.hpp"
+#include "\z\mts_nature\addons\nature\script_macros.hpp"
