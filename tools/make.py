@@ -505,7 +505,7 @@ def get_project_version(version_increments=[]):
     #do the magic based on https://github.com/acemod/ACE3/issues/806#issuecomment-95639048
 
     try:
-        scriptModPath = os.path.join(module_root, "main\script_version.hpp")
+        scriptModPath = os.path.join(module_root, "nature\script_version.hpp")
 
         if os.path.isfile(scriptModPath):
             f = open(scriptModPath, "r")
