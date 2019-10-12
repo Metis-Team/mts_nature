@@ -48,6 +48,8 @@ TREE(Palaquium,A3\vegetation_f_exp\Tree\t_Palaquium_F.p3d);
 TREE(Pritchardia,A3\vegetation_f_exp\Tree\t_Pritchardia_F.p3d);
 TREE(Rhizophora,A3\vegetation_f_exp\Tree\t_Rhizophora_F.p3d);
 
+TREE(Cacao_ripe,A3\vegetation_f_exp\Crop\t_Cacao_ripe_F.p3d);
+
 TREE(FallenBranch,A3\vegetation_f_exp\TreeParts\d_FallenBranch_F.p3d);
 //TREE(FallenBranch_LC,A3\vegetation_f_exp\TreeParts\d_FallenBranch_LC_F.p3d);
 TREE(FallenTrunk_branches,A3\vegetation_f_exp\TreeParts\d_FallenTrunk_branches_F.p3d);

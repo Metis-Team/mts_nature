@@ -69,7 +69,6 @@ PLANT(Ginger_9,A3\vegetation_f_exp\Crop\b_Ginger_9_F.p3d);
 PLANT(Sugarcane_mature_row,A3\vegetation_f_exp\Crop\b_Sugarcane_mature_row_F.p3d);
 PLANT(Sugarcane_sapling_row,A3\vegetation_f_exp\Crop\b_Sugarcane_sapling_row_F.p3d);
 PLANT(Sugarcane_sapling_single,A3\vegetation_f_exp\Crop\b_Sugarcane_sapling_single_F.p3d);
-PLANT(Cacao_ripe,A3\vegetation_f_exp\Crop\t_Cacao_ripe_F.p3d);
 
 PLANT(LianaTangle_narrow,A3\vegetation_f_exp\Lianas\d_LianaTangle_narrow_F.p3d);
 PLANT(LianaTangle_wide,A3\vegetation_f_exp\Lianas\d_LianaTangle_wide_F.p3d);
