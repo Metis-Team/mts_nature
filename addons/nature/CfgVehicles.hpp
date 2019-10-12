@@ -25,6 +25,11 @@ class CfgVehicles {
         editorSubcategory = QGVAR(clutter_faction);
     };
 
+    class GVAR(grass_base): GVAR(bush_base) {
+        icon = QPATHTOF(data\ui\mts_nature_ui_plant.paa);
+        editorSubcategory = QGVAR(grass_faction);
+    };
+
     // Only for BWC
     class Rocks_base_F;
     class GVAR(rock_base): Rocks_base_F {
@@ -79,9 +84,19 @@ class CfgVehicles {
         editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
     }
 
+    #define GRASS(NAME,MODELPATH) \
+    class NAME##: GVAR(grass_base) { \
+        scope = 2; \
+        scopeCurator = 2; \
+        model = MODELPATH##; \
+        displayName = CSTRING(NAME); \
+        editorPreview = QPATHTOF(data\editorpreview\NAME.jpg); \
+    }
+
     #include "CfgVehicles_Bush.hpp"
     #include "CfgVehicles_Plant.hpp"
     #include "CfgVehicles_Tree.hpp"
     #include "CfgVehicles_Rock.hpp"
     #include "CfgVehicles_Clutter.hpp"
+    #include "CfgVehicles_Grass.hpp"
 };

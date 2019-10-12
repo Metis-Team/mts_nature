@@ -24,6 +24,10 @@
             <Original>Clutter</Original>
             <German>Geröll</German>
         </Key>
+        <Key ID="str_mts_nature_Grass_Faction">
+            <Original>Grasses</Original>
+            <German>Gräser</German>
+        </Key>
     </Container>
     <Container name="Bush">
         <Key ID="str_mts_nature_Cane1">

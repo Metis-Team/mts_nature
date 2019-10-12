@@ -11,4 +11,7 @@ class CfgEditorSubcategories {
     class GVAR(clutter_faction) {
         displayName = CSTRING(Clutter_Faction);
     };
+    class GVAR(grass_faction) {
+        displayName = CSTRING(Grass_Faction);
+    };
 };
