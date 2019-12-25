@@ -65,4 +65,27 @@ PLANT(red_dirt_leaves,A3\vegetation_f_exp\clutter\red_dirt\c_red_dirt_leaves.p3d
 PLANT(red_dirt_leaves_w3,A3\vegetation_f_exp\clutter\red_dirt\c_red_dirt_leaves_w3.p3d);
 PLANT(red_dirt_mimosa,A3\vegetation_f_exp\clutter\red_dirt\c_red_dirt_mimosa.p3d);
 
+//ARMA LIVONIA
+PLANT(Corn_row_F,A3\vegetation_f_enoch\Crop\b_Corn_row_F.p3d);
+PLANT(beech_big,A3\vegetation_f_enoch\clutter\c_beech_big.p3d);
+PLANT(beech_mid,A3\vegetation_f_enoch\clutter\c_beech_mid.p3d);
+PLANT(beech_small,A3\vegetation_f_enoch\clutter\c_beech_small.p3d);
+PLANT(branchesBig_picea,A3\vegetation_f_enoch\clutter\c_branchesBig_picea.p3d);
+PLANT(branches_deciduous,A3\vegetation_f_enoch\clutter\c_branches_deciduous.p3d);
+PLANT(branches_picea,A3\vegetation_f_enoch\clutter\c_branches_picea.p3d);
+PLANT(Cones,A3\vegetation_f_enoch\clutter\c_Cones.p3d);
+PLANT(fern,A3\vegetation_f_enoch\clutter\c_fern.p3d);
+PLANT(fernTall,A3\vegetation_f_enoch\clutter\c_fernTall.p3d);
+PLANT(fern_amanita_single,A3\vegetation_f_enoch\clutter\c_fern_amanita_single.p3d);
+PLANT(fern_boletus_group,A3\vegetation_f_enoch\clutter\c_fern_boletus_group.p3d);
+PLANT(leaves_dead,A3\vegetation_f_enoch\clutter\c_leaves_dead.p3d);
+PLANT(leaves_dead_half,A3\vegetation_f_enoch\clutter\c_leaves_dead_half.p3d);
+PLANT(Pines,A3\vegetation_f_enoch\clutter\c_Pines.p3d);
+PLANT(plantsSmall1,A3\vegetation_f_enoch\clutter\c_plantsSmall1.p3d);
+PLANT(plantsSmall2,A3\vegetation_f_enoch\clutter\c_plantsSmall2.p3d);
+PLANT(stubble,A3\vegetation_f_enoch\clutter\c_stubble.p3d);
+PLANT(Vaccinium,A3\vegetation_f_enoch\clutter\c_Vaccinium.p3d);
+PLANT(weat,A3\vegetation_f_enoch\clutter\c_weat.p3d);
+PLANT(weatTall,A3\vegetation_f_enoch\clutter\c_weatTall.p3d);
+
 //PLANT(NAME,MODELPATH);
