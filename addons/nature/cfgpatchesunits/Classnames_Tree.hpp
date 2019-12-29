@@ -131,4 +131,4 @@
 "pyrusCommunis_3s",
 "salix2s",
 "sorbus2s",
-"stub_picea",
+"stub_picea"
