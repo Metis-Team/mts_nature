@@ -99,6 +99,48 @@
         <Key ID="str_mts_nature_Rhizophora_shrub">
             <Original>Rhizophora Shrub</Original>
         </Key>
+        <Key ID="str_mts_nature_Betula_nana">
+            <Original>Betula nana</Original>
+        </Key>
+        <Key ID="str_mts_nature_Caragana_arborescens">
+            <Original>Caragana Arborescens</Original>
+        </Key>
+        <Key ID="str_mts_nature_Corylus_heterophylla_1">
+            <Original>Corylus Heterophylla 1</Original>
+        </Key>
+        <Key ID="str_mts_nature_Corylus_heterophylla_2">
+            <Original>Corylus Heterophylla 2</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_b_1f">
+            <Original>Fagus Sylvatica 1f</Original>
+        </Key>
+        <Key ID="str_mts_nature_Phragmites_australis">
+            <Original>Phragmites Australis</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_b_1f">
+            <Original>Picea Abies Bush 1f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_b_1fb">
+            <Original>Picea Abies Bush 1fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_prunusSpinosa_1s">
+            <Original>Prunus Spinosa</Original>
+        </Key>
+        <Key ID="str_mts_nature_prunusSpinosa_2s">
+            <Original>Prunus Spinosa (Big)</Original>
+        </Key>
+        <Key ID="str_mts_nature_rosaCanina_1s">
+            <Original>Rosa Canina</Original>
+        </Key>
+        <Key ID="str_mts_nature_rosaCanina_2s">
+            <Original>Rosa Canina (Big)</Original>
+        </Key>
+        <Key ID="str_mts_nature_sambucusNigra_1s">
+            <Original>Sambucus Nigra</Original>
+        </Key>
+        <Key ID="str_mts_nature_sambucusNigra_2s">
+            <Original>Sambucus Nigra (Big)</Original>
+        </Key>
     </Container>
     <Container name="Plant">
         <Key ID="str_mts_nature_Carduus">
@@ -139,48 +181,6 @@
         </Key>
         <Key ID="str_mts_nature_Flower_Tansy">
             <Original>Flower Tansy</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_High_Dry">
-            <Original>Grass High Dry</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_High_Green">
-            <Original>Grass High Green</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Low_Sharp">
-            <Original>Grass Low Sharp</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Dry">
-            <Original>Grass Dry</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Green">
-            <Original>Grass Green</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Tall_Dead">
-            <Original>Grass Tall Dead</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Tuft_Dry">
-            <Original>Grass Tuft Dry</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Crooked">
-            <Original>Grass Crooked</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Tuft_Dead">
-            <Original>Grass Tuft Dead</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Desert_GroupHard">
-            <Original>Grass Desert Group Hard</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Green_GroupHard">
-            <Original>Grass Green Group Hard</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Green_GroupSoft">
-            <Original>Grass Green Group Soft</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Long_Dry">
-            <Original>Grass Long Dry</Original>
-        </Key>
-        <Key ID="str_mts_nature_Grass_Tall">
-            <Original>Grass Tall</Original>
         </Key>
         <Key ID="str_mts_nature_Plant_chicory">
             <Original>Plant Chicory</Original>
@@ -410,6 +410,69 @@
         <Key ID="str_mts_nature_red_dirt_sparse_Grass3">
             <Original>Red Dirt Sparse Grass 3</Original>
         </Key>
+        <Key ID="str_mts_nature_beech_big">
+            <Original>Beech Big</Original>
+        </Key>
+        <Key ID="str_mts_nature_beech_mid">
+            <Original>Beech Mid</Original>
+        </Key>
+        <Key ID="str_mts_nature_beech_small">
+            <Original>Beech Small</Original>
+        </Key>
+        <Key ID="str_mts_nature_branchesBig_picea">
+            <Original>Picea Branches Big</Original>
+        </Key>
+        <Key ID="str_mts_nature_branches_deciduous">
+            <Original>Deciduous Branches</Original>
+        </Key>
+        <Key ID="str_mts_nature_branches_picea">
+            <Original>Picea Branches</Original>
+        </Key>
+        <Key ID="str_mts_nature_Cones">
+            <Original>Cones</Original>
+        </Key>
+        <Key ID="str_mts_nature_fern">
+            <Original>Fern</Original>
+        </Key>
+        <Key ID="str_mts_nature_fernTall">
+            <Original>Fern Tall</Original>
+        </Key>
+        <Key ID="str_mts_nature_fern_amanita_single">
+            <Original>Fern Amanita Single</Original>
+        </Key>
+        <Key ID="str_mts_nature_fern_boletus_group">
+            <Original>Fern Boletus Group</Original>
+        </Key>
+        <Key ID="str_mts_nature_leaves_dead">
+            <Original>Dead Leaves</Original>
+        </Key>
+        <Key ID="str_mts_nature_leaves_dead_half">
+            <Original>Half Dead Leaves</Original>
+        </Key>
+        <Key ID="str_mts_nature_Pines">
+            <Original>Pines</Original>
+        </Key>
+        <Key ID="str_mts_nature_plantsSmall1">
+            <Original>Plants Small 1</Original>
+        </Key>
+        <Key ID="str_mts_nature_plantsSmall2">
+            <Original>Plants Small 2</Original>
+        </Key>
+        <Key ID="str_mts_nature_stubble">
+            <Original>Stubble</Original>
+        </Key>
+        <Key ID="str_mts_nature_Vaccinium">
+            <Original>Vaccinium</Original>
+        </Key>
+        <Key ID="str_mts_nature_weat">
+            <Original>Weat</Original>
+        </Key>
+        <Key ID="str_mts_nature_weatTall">
+            <Original>Weat Tall</Original>
+        </Key>
+        <Key ID="str_mts_nature_Corn_row_F">
+            <Original>Corn Row</Original>
+        </Key>
     </Container>
     <Container name="Rock">
         <Key ID="str_mts_nature_BluntRock_Apart">
@@ -617,6 +680,314 @@
         </Key>
         <Key ID="str_mts_nature_TreeStump_natural_small">
             <Original>Tree Stump Natural Small</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_stem">
+            <Original>Betula Pendula Stem</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_stump">
+            <Original>Betula Pendula Stump</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_fallen">
+            <Original>Fagus Sylvatica Fallen</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_fallenb">
+            <Original>Fagus Sylvatica Fallen b</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_fallenc">
+            <Original>Fagus Sylvatica Fallen c</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_stumpb">
+            <Original>Fagus Sylvatica Stump b</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_stumpc">
+            <Original>Fagus Sylvatica Stump c</Original>
+        </Key>
+        <Key ID="str_mts_nature_Picea_stem1">
+            <Original>Picea Stem 1</Original>
+        </Key>
+        <Key ID="str_mts_nature_Picea_stem2">
+            <Original>Picea Stem 2</Original>
+        </Key>
+        <Key ID="str_mts_nature_Picea_stump">
+            <Original>Picea Stump</Original>
+        </Key>
+        <Key ID="str_mts_nature_acer2s">
+            <Original>Acer</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_1s">
+            <Original>Betula Pendula (Small)</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_2f">
+            <Original>Betula Pendula (Tall) 2</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_2s">
+            <Original>Betula Pendula</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_2w">
+            <Original>Betula Pendula (Small Wide)</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_3f">
+            <Original>Betula Pendula (Tall)</Original>
+        </Key>
+        <Key ID="str_mts_nature_Betula_pendula_3s">
+            <Original>Betula Pendula (Wide)</Original>
+        </Key>
+        <Key ID="str_mts_nature_fagus2f">
+            <Original>Fagus (Tall)</Original>
+        </Key>
+        <Key ID="str_mts_nature_fagus2s">
+            <Original>Fagus</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_1f">
+            <Original>Fagus Sylvatica 1f</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_1fb">
+            <Original>Fagus Sylvatica 1fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_1fc">
+            <Original>Fagus Sylvatica 1fc</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_1fd">
+            <Original>Fagus Sylvatica 1fd</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_1fe">
+            <Original>Fagus Sylvatica 1fe</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_1s">
+            <Original>Fagus Sylvatica 1s</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_2d">
+            <Original>Fagus Sylvatica 2d</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_2f">
+            <Original>Fagus Sylvatica 2f</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_2fb">
+            <Original>Fagus Sylvatica 2fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_2fc">
+            <Original>Fagus Sylvatica 2fc</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_2s">
+            <Original>Fagus Sylvatica 2s</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_2sb">
+            <Original>Fagus Sylvatica 2sb</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_3d">
+            <Original>Fagus Sylvatica 3d</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_3f">
+            <Original>Fagus Sylvatica 3f</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_3fb">
+            <Original>Fagus Sylvatica 3fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_FagusSylvatica_3s">
+            <Original>Fagus Sylvatica 3s</Original>
+        </Key>
+        <Key ID="str_mts_nature_juglansRegia_2s">
+            <Original>Juglans Regia</Original>
+        </Key>
+        <Key ID="str_mts_nature_juglansRegia_3s">
+            <Original>Juglans Regia (Wide)</Original>
+        </Key>
+        <Key ID="str_mts_nature_malusDomestica_2s">
+            <Original>Malus Domestica (Small)</Original>
+        </Key>
+        <Key ID="str_mts_nature_malusDomestica_3s">
+            <Original>Malus Domestica</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbiesNativitatis_2s">
+            <Original>Picea Abies Nativitatis 2s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_1f">
+            <Original>Picea Abies 1f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_1s">
+            <Original>Picea Abies 1s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_1sb">
+            <Original>Picea Abies 1sb</Original>
+        </Key>
+        <Key ID="str_mts_nature_piceaabies_2d">
+            <Original>Picea Abies 2d</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_2f">
+            <Original>Picea Abies 2f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_2fb">
+            <Original>Picea Abies 2fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_2s">
+            <Original>Picea Abies 2s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_2sb">
+            <Original>Picea Abies 2sb</Original>
+        </Key>
+        <Key ID="str_mts_nature_piceaabies_3d">
+            <Original>Picea Abies 3d</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_3f">
+            <Original>Picea Abies 3f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PiceaAbies_3s">
+            <Original>Picea Abies 3s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_1f">
+            <Original>Pinus Sylvestris 1f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_1s">
+            <Original>Pinus Sylvestris 1s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_2f">
+            <Original>Pinus Sylvestris 2f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_2fb">
+            <Original>Pinus Sylvestris 2fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_2s">
+            <Original>Pinus Sylvestris 2s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_2sb">
+            <Original>Pinus Sylvestris 2sb</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_3d">
+            <Original>Pinus Sylvestris 3d</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_3f">
+            <Original>Pinus Sylvestris 3f</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_3fb">
+            <Original>Pinus Sylvestris 3fb</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_3fc">
+            <Original>Pinus Sylvestris 3fc</Original>
+        </Key>
+        <Key ID="str_mts_nature_PinusSylvestris_3s">
+            <Original>Pinus Sylvestris 3s</Original>
+        </Key>
+        <Key ID="str_mts_nature_PopulusN3s_F">
+            <Original>Populus</Original>
+        </Key>
+        <Key ID="str_mts_nature_pyrusCommunis_2s">
+            <Original>Pyrus Communis</Original>
+        </Key>
+        <Key ID="str_mts_nature_pyrusCommunis_3s">
+            <Original>Pyrus Communis (Tall)</Original>
+        </Key>
+        <Key ID="str_mts_nature_salix2s">
+            <Original>Salix</Original>
+        </Key>
+        <Key ID="str_mts_nature_sorbus2s">
+            <Original>Sorbus</Original>
+        </Key>
+        <Key ID="str_mts_nature_stub_picea">
+            <Original>Stub Picea</Original>
+        </Key>
+    </Container>
+    <Container>
+        <Key ID="str_mts_nature_Grass_High_Dry">
+            <Original>Grass High Dry</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_High_Green">
+            <Original>Grass High Green</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Low_Sharp">
+            <Original>Grass Low Sharp</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Dry">
+            <Original>Grass Dry</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Green">
+            <Original>Grass Green</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Tall_Dead">
+            <Original>Grass Tall Dead</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Tuft_Dry">
+            <Original>Grass Tuft Dry</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Crooked">
+            <Original>Grass Crooked</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Tuft_Dead">
+            <Original>Grass Tuft Dead</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Desert_GroupHard">
+            <Original>Grass Desert Group Hard</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Green_GroupHard">
+            <Original>Grass Green Group Hard</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Green_GroupSoft">
+            <Original>Grass Green Group Soft</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Long_Dry">
+            <Original>Grass Long Dry</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_Tall">
+            <Original>Grass Tall</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass">
+            <Original>Grass</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassAnthoxanthum">
+            <Original>Grass Anthoxanthum</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassAnthoxanthum_bended">
+            <Original>Grass Anthoxanthum bended</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDry">
+            <Original>Grass Dry</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDryCarduus_f">
+            <Original>Grass Dry Carduus</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDryHypericum">
+            <Original>Grass Dry Hypericum</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDryPlant1">
+            <Original>Grass Dry Plant 1</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDryTall">
+            <Original>Grass Dry Tall</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDryTall2">
+            <Original>Grass Dry Tall 2</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassDryTall3">
+            <Original>Grass Dry Tall 3</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassLow">
+            <Original>Grass Low</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassPlant1">
+            <Original>Grass Plant 1</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassPlant2">
+            <Original>GrassPlant2</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassSmall">
+            <Original>Grass Small</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassSmallConc">
+            <Original>Grass Small Conc</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassTall2">
+            <Original>Grass Tall 2</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassTall3">
+            <Original>Grass Tall 3</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassTiny">
+            <Original>Grass Tiny</Original>
+        </Key>
+        <Key ID="str_mts_nature_GrassTinyConc">
+            <Original>Grass Tiny Conc</Original>
+        </Key>
+        <Key ID="str_mts_nature_Grass_flower1">
+            <Original>Grass Flower 1</Original>
         </Key>
     </Container>
     </Package>

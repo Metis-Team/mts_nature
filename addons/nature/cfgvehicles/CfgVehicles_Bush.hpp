@@ -27,4 +27,20 @@ BUSH(NeriumO2d_tanoa,A3\vegetation_f_exp\Shrub\b_NeriumO2d_tanoa_F.p3d);
 BUSH(PiperMeth,A3\vegetation_f_exp\Shrub\b_PiperMeth_F.p3d);
 BUSH(Rhizophora_shrub,A3\vegetation_f_exp\Shrub\b_Rhizophora_F.p3d);
 
+//ARMA LIVONIA
+BUSH(Betula_nana,A3\vegetation_f_enoch\Bush\B_Betula_nana.p3d);
+BUSH(Caragana_arborescens,A3\vegetation_f_enoch\Bush\B_Caragana_arborescens.p3d);
+BUSH(Corylus_heterophylla_1,A3\vegetation_f_enoch\Bush\B_Corylus_heterophylla_1.p3d);
+BUSH(Corylus_heterophylla_2,A3\vegetation_f_enoch\Bush\B_Corylus_heterophylla_2.p3d);
+BUSH(FagusSylvatica_b_1f,A3\vegetation_f_enoch\Bush\b_FagusSylvatica_1f.p3d);
+BUSH(Phragmites_australis,A3\vegetation_f_enoch\Bush\B_Phragmites_australis.p3d);
+BUSH(PiceaAbies_b_1f,A3\vegetation_f_enoch\Bush\b_PiceaAbies_1f.p3d);
+BUSH(PiceaAbies_b_1fb,A3\vegetation_f_enoch\Bush\b_PiceaAbies_1fb.p3d);
+BUSH(prunusSpinosa_1s,A3\vegetation_f_enoch\Bush\b_prunusSpinosa_1s.p3d);
+BUSH(prunusSpinosa_2s,A3\vegetation_f_enoch\Bush\b_prunusSpinosa_2s.p3d);
+BUSH(rosaCanina_1s,A3\vegetation_f_enoch\Bush\b_rosaCanina_1s.p3d);
+BUSH(rosaCanina_2s,A3\vegetation_f_enoch\Bush\b_rosaCanina_2s.p3d);
+BUSH(sambucusNigra_1s,A3\vegetation_f_enoch\Bush\b_sambucusNigra_1s.p3d);
+BUSH(sambucusNigra_2s,A3\vegetation_f_enoch\Bush\b_sambucusNigra_2s.p3d);
+
 //BUSH(NAME,MODELPATH);

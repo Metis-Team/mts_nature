@@ -34,3 +34,25 @@ GRASS(GrassBunch_LO,A3\vegetation_f_exp\clutter\grass\c_GrassBunch_LO.p3d);
 GRASS(Grass_leaf_big,A3\vegetation_f_exp\clutter\grass\c_Grass_leaf_big.p3d);
 GRASS(Grass_short_small,A3\vegetation_f_exp\clutter\grass\c_Grass_short_small.p3d);
 GRASS(Grass_short_bunch,A3\vegetation_f_exp\clutter\grass\c_Grass_short_bunch.p3d);
+
+//ARMA LIVONIA
+GRASS(Grass,A3\vegetation_f_enoch\clutter\c_Grass.p3d);
+GRASS(GrassAnthoxanthum,A3\vegetation_f_enoch\clutter\c_GrassAnthoxanthum.p3d);
+GRASS(GrassAnthoxanthum_bended,A3\vegetation_f_enoch\clutter\c_GrassAnthoxanthum_bended.p3d);
+GRASS(GrassDry,A3\vegetation_f_enoch\clutter\c_GrassDry.p3d);
+GRASS(GrassDryCarduus_f,A3\vegetation_f_enoch\clutter\c_GrassDryCarduus_f.p3d);
+GRASS(GrassDryHypericum,A3\vegetation_f_enoch\clutter\c_GrassDryHypericum.p3d);
+GRASS(GrassDryPlant1,A3\vegetation_f_enoch\clutter\c_GrassDryPlant1.p3d);
+GRASS(GrassDryTall,A3\vegetation_f_enoch\clutter\c_GrassDryTall.p3d);
+GRASS(GrassDryTall2,A3\vegetation_f_enoch\clutter\c_GrassDryTall2.p3d);
+GRASS(GrassDryTall3,A3\vegetation_f_enoch\clutter\c_GrassDryTall3.p3d);
+GRASS(GrassLow,A3\vegetation_f_enoch\clutter\c_GrassLow.p3d);
+GRASS(GrassPlant1,A3\vegetation_f_enoch\clutter\c_GrassPlant1.p3d);
+GRASS(GrassPlant2,A3\vegetation_f_enoch\clutter\c_GrassPlant2.p3d);
+GRASS(GrassSmall,A3\vegetation_f_enoch\clutter\c_GrassSmall.p3d);
+GRASS(GrassSmallConc,A3\vegetation_f_enoch\clutter\c_GrassSmallConc.p3d);
+GRASS(GrassTall2,A3\vegetation_f_enoch\clutter\c_GrassTall2.p3d);
+GRASS(GrassTall3,A3\vegetation_f_enoch\clutter\c_GrassTall3.p3d);
+GRASS(GrassTiny,A3\vegetation_f_enoch\clutter\c_GrassTiny.p3d);
+GRASS(GrassTinyConc,A3\vegetation_f_enoch\clutter\c_GrassTinyConc.p3d);
+GRASS(Grass_flower1,A3\vegetation_f_enoch\clutter\c_Grass_flower1.p3d);
