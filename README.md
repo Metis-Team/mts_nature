@@ -23,7 +23,11 @@
 - Arma 3 vegetation from all maps, this includes: Altis, Stratis, Malden, Tanoa and Livonia
 - Objects available in Zeus
 
-You don't need any DLC to use all objects from Metis Nature!
+## FAQ
+- Q: Does the mod have to be run on the server?  
+ A: Yes
+- Q: Do I need any DLC/Expansion?  
+ A: No, you don't need any DLC, e.g. the Tanoa vegetation can be placed without the expansion pack
 
 ## Contributing
 - [Issues & Feature requests](https://github.com/Metis-Team/mts_nature/issues)
