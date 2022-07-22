@@ -1,0 +1,25 @@
+name = "Metis Nature"
+prefix = "mts"
+author = "Timi007"
+files = [
+    "*.dll",
+    "*.so",
+    "mod.cpp",
+    "README.md",
+    "LICENSE",
+    "mts_nature_picture.paa",
+    "mts_nature_logo_small.paa",
+    "mts_nature_logo_over_small.paa",
+    "meta.cpp"
+]
+
+modname = "Metis_Nature"
+key_name = "mts_nature_{{version}}"
+authority = "mts_nature_{{version}}-{{git \"id 8\"}}"
+
+releasebuild = [
+    "@zip Metis_Nature_{{semver.major}}.{{semver.minor}}.{{semver.patch}}"
+]
+
+[header_exts]
+version = "{{git \"id 8\"}}"
