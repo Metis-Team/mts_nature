@@ -2,13 +2,13 @@
 <Project name="MTS Nature">
     <Package name="mts_nature">
     <Container name="Misc">
-        <Key ID="str_mts_markers_authors">
+        <Key ID="str_mts_nature_authors">
               <Original>Timi007</Original>
               <German>Timi007</German>
           </Key>
-          <Key ID="str_mts_markers_URL">
-              <Original>https://github.com/Metis-Team</Original>
-              <German>https://github.com/Metis-Team</German>
+          <Key ID="str_mts_nature_URL">
+              <Original>https://github.com/Metis-Team/mts_nature</Original>
+              <German>https://github.com/Metis-Team/mts_nature</German>
           </Key>
     </Container>
     <Container name="CBA">
