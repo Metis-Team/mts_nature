@@ -42,40 +42,40 @@ class CfgVehicles {
     #define BASE_ATTRIBUTES(NAME,MODELPATH) \
         scope = 2; \
         scopeCurator = 2; \
-        model = MODELPATH##; \
+        model = #MODELPATH; \
         displayName = CSTRING(NAME); \
         editorPreview = QPATHTOF(data\editorpreview\NAME.jpg);
 
     #define BUSH(NAME,MODELPATH) \
-    class NAME##: GVAR(bush_base) { \
+    class NAME: GVAR(bush_base) { \
         BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define PLANT(NAME,MODELPATH) \
-    class NAME##: GVAR(plant_base) { \
+    class NAME: GVAR(plant_base) { \
         BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define TREE(NAME,MODELPATH) \
-    class NAME##: GVAR(tree_base) { \
+    class NAME: GVAR(tree_base) { \
         BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define ROCK(NAME,MODELPATH) \
-    class NAME##: GVAR(rock_base) { \
+    class NAME: GVAR(rock_base) { \
         scope = 2; \
         scopeCurator = 2; \
-        model = MODELPATH##; \
+        model = #MODELPATH; \
         displayName = CSTRING(NAME); \
     }
 
     #define CLUTTER(NAME,MODELPATH) \
-    class NAME##: GVAR(clutter_base) { \
+    class NAME: GVAR(clutter_base) { \
         BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 
     #define GRASS(NAME,MODELPATH) \
-    class NAME##: GVAR(grass_base) { \
+    class NAME: GVAR(grass_base) { \
         BASE_ATTRIBUTES(NAME,MODELPATH) \
     }
 

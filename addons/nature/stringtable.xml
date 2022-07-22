@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="MTS Nature">
     <Package name="mts_nature">
+    <Container name="Misc">
+        <Key ID="str_mts_nature_authors">
+              <Original>Timi007</Original>
+              <German>Timi007</German>
+          </Key>
+          <Key ID="str_mts_nature_URL">
+              <Original>https://github.com/Metis-Team/mts_nature</Original>
+              <German>https://github.com/Metis-Team/mts_nature</German>
+          </Key>
+    </Container>
     <Container name="CBA">
         <Key ID="str_mts_nature_cba_category_name">
             <Original>Metis Nature</Original>

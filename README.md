@@ -9,7 +9,7 @@
     <a href="https://github.com/Metis-Team/mts_nature/releases/latest">
         <img src="https://img.shields.io/github/downloads/Metis-Team/mts_nature/total.svg?style=flat-square&label=Downloads" alt="Metis Nature Downloads">
     </a>
-    <a href="">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1951690856">
         <img src="https://img.shields.io/badge/Steam-Workshop-green.svg?style=flat-square" alt="Steam Workshop">
     </a>
     <a href="https://github.com/Metis-Team/mts_nature/blob/master/LICENSE">
@@ -22,6 +22,12 @@
 ## Features:
 - Arma 3 vegetation from all maps, this includes: Altis, Stratis, Malden, Tanoa and Livonia
 - Objects available in Zeus
+
+## FAQ
+- Q: Does the mod have to be run on the server?  
+ A: Yes
+- Q: Do I need any DLC/Expansion?  
+ A: No, you don't need any DLC, e.g. the Tanoa vegetation can be placed without the expansion pack
 
 ## Contributing
 - [Issues & Feature requests](https://github.com/Metis-Team/mts_nature/issues)
