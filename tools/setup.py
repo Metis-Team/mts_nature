@@ -13,7 +13,7 @@ import winreg
 
 ######## GLOBALS #########
 MAINDIR = "z"
-PROJECTDIR = "mts"
+PROJECTDIR = "mts_nature"
 CBA = "P:\\x\\cba"
 ##########################
 
