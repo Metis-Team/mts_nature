@@ -13,18 +13,5 @@ class CfgPatches {
     };
 };
 
-class CfgSettings {
-    class CBA {
-        class Versioning {
-            class ADDON {
-                main_addon = QUOTE(ADDON);
-                class dependencies {
-                    CBA[] = {"cba_main", REQUIRED_CBA_VERSION, "true"};
-                };
-            };
-        };
-    };
-};
-
 #include "CfgEditorCategories.hpp"
 #include "CfgVehicles.hpp"
