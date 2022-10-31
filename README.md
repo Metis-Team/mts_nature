@@ -15,6 +15,9 @@
     <a href="https://github.com/Metis-Team/mts_nature/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL--ND-red.svg?style=flat-square" alt="APL-ND License">
     </a>
+    <a href="https://github.com/Metis-Team/mts_nature/actions/workflows/arma.yml">
+        <img src="https://img.shields.io/github/workflow/status/Metis-Team/mts_nature/Arma/master?style=flat-square">
+    </a>
 </p>
 
 **Metis Nature** allows you to use Arma 3 vegetation in your 3DEN and Zeus-Missions.
