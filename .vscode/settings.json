@@ -27,5 +27,5 @@
         "**/venv": true
     },
     "sqf.enableACE3": false,
-    "sqf.enableCBA": true,
+    "sqf.enableCBA": false,
 }
