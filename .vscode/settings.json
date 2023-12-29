@@ -10,7 +10,6 @@
         "**/*.exe": true,
         "**/keys": true,
         "**/release": true,
-        "**/__pycache__": true,
     },
     "files.associations": {
         "**/*.hpp": "ext",
@@ -21,10 +20,14 @@
         "init*.hpp": "sqf",
     },
     "search.exclude": {
-        "**/venv": true,
+        ".hemttout/dev": true,
+        ".hemttout/build": true,
+        ".hemttout/release": true,
     },
     "explorer.autoRevealExclude": {
-        "**/venv": true
+        ".hemttout/dev": true,
+        ".hemttout/build": true,
+        ".hemttout/release": true,
     },
     "sqf.enableACE3": false,
     "sqf.enableCBA": false,
