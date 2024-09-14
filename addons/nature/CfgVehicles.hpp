@@ -7,6 +7,15 @@ class CfgVehicles {
         icon = QPATHTOF(data\ui\mts_nature_ui_bush.paa);
         editorCategory = "EdCat_Environment";
         editorSubcategory = QGVAR(bush_faction);
+
+        class SimpleObject
+        {
+            eden = 1;
+            animate[] = {};
+            hide[] = {};
+            verticalOffset = 0;
+            verticalOffsetWorld = 0;
+        };
     };
 
     class GVAR(plant_base): GVAR(bush_base) {
@@ -37,6 +46,15 @@ class CfgVehicles {
         scope = 0;
         icon = QPATHTOF(data\ui\mts_nature_ui_rock.paa);
         accuracy = 1000;
+
+        class SimpleObject
+        {
+            eden = 1;
+            animate[] = {};
+            hide[] = {};
+            verticalOffset = 0;
+            verticalOffsetWorld = 0;
+        };
     };
 
     #define BASE_ATTRIBUTES(NAME,MODELPATH) \
