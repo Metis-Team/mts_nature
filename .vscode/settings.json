@@ -1,0 +1,34 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.pbo": true,
+        "**/*.exe": true,
+        "**/keys": true,
+        "**/release": true,
+    },
+    "files.associations": {
+        "**/*.hpp": "ext",
+        // "**/*.hpp": "cpp",
+        "**/*.cpp": "ext",
+        "**/XEH_PREP.hpp": "sqf",
+        "*.rpt": "log",
+        "init*.hpp": "sqf",
+    },
+    "search.exclude": {
+        ".hemttout/dev": true,
+        ".hemttout/build": true,
+        ".hemttout/release": true,
+    },
+    "explorer.autoRevealExclude": {
+        ".hemttout/dev": true,
+        ".hemttout/build": true,
+        ".hemttout/release": true,
+    },
+    "sqf.enableACE3": false,
+    "sqf.enableCBA": false,
+}
