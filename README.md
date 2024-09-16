@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/Metis-Team/mts_nature/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg?style=flat-square" alt="Metis Nature Version">
+        <img src="https://img.shields.io/badge/Version-1.0.2-blue.svg?style=flat-square" alt="Metis Nature Version">
     </a>
     <a href="https://github.com/Metis-Team/mts_nature/releases/latest">
         <img src="https://img.shields.io/github/downloads/Metis-Team/mts_nature/total.svg?style=flat-square&label=Downloads" alt="Metis Nature Downloads">
