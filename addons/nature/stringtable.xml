@@ -896,7 +896,7 @@
             <Original>Stub Picea</Original>
         </Key>
     </Container>
-    <Container>
+    <Container name="Grass">
         <Key ID="str_mts_nature_Grass_High_Dry">
             <Original>Grass High Dry</Original>
         </Key>
