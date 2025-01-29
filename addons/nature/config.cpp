@@ -13,5 +13,16 @@ class CfgPatches {
     };
 };
 
+// Add version checks if CBA is loaded
+class CfgSettings {
+    class CBA {
+        class Versioning {
+            class ADDON {
+                main_addon = QUOTE(ADDON);
+            };
+        };
+    };
+};
+
 #include "CfgEditorCategories.hpp"
 #include "CfgVehicles.hpp"
