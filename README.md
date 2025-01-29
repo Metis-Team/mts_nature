@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://github.com/Metis-Team/mts_nature/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg?style=flat-square" alt="Metis Nature Version">
+        <img src="https://img.shields.io/github/v/release/Metis-Team/mts_nature?label=Version&style=flat-square" alt="Metis Nature Version">
     </a>
     <a href="https://github.com/Metis-Team/mts_nature/releases/latest">
-        <img src="https://img.shields.io/github/downloads/Metis-Team/mts_nature/total.svg?style=flat-square&label=Downloads" alt="Metis Nature Downloads">
+        <img src="https://img.shields.io/github/downloads/Metis-Team/mts_nature/total.svg?label=Downloads&logo=Github&style=flat-square" alt="Metis Nature Downloads">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1951690856">
-        <img src="https://img.shields.io/badge/Steam-Workshop-green.svg?style=flat-square" alt="Steam Workshop">
+        <img src="https://img.shields.io/badge/Steam-Workshop-green.svg?logo=Steam&style=flat-square" alt="Steam Workshop">
     </a>
     <a href="https://github.com/Metis-Team/mts_nature/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL--ND-red.svg?style=flat-square" alt="APL-ND License">
